@@ -4,3 +4,9 @@
 - [Manael](https://manael.org/) creator
 - [Haneru Developers](https://haneru.dev/) organizer
 - and more...
+
+<div align="right">
+
+Artwork by [Kannazuki Diru](https://twitter.com/diru_k1005)
+
+</div>
